@@ -1,0 +1,55 @@
+.overlap-general-details-change {
+    height: 900px;
+    width: 1270px;
+    /*change*/
+    padding: 20px ;
+    background-color: #ffffff;
+    border: 1px solid #e1e1e1;
+    border-radius: 3px;
+    color: #000000;
+}
+
+.edit {
+    padding-top: 5px;
+    height: 22px;
+    width: 23px;
+}
+
+.text-wrapper-20 {
+    font-size: 22px;
+    font-weight: 500;
+    /*change*/
+    margin-bottom: 20px ;
+}
+
+.overlap-general-details-change-list {
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+    font-size: 18px;
+}
+
+.overlap-general-details-change-list-item{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    /*change*/
+    padding: 10px ;
+    margin-bottom: 3px;
+
+    border: 1px solid #e1e1e1;
+    border-radius: 3px;
+}
+
+.overlap-general-details-change-box-item-title {
+        font-weight: 500;
+}
+
+.overlap-general-details-change-box-item-value {
+    font-weight: 400;
+    color: #65676b;
+}
+
+
+
+
